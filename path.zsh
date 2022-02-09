@@ -1,5 +1,6 @@
 # Load Composer tools
-export PATH="$HOME/.composer/vendor/bin:$PATH"
+# oh my zsh composer plugin takes care of this
+# export PATH="$HOME/.composer/vendor/bin:$PATH"
 
 # Load Node global installed binaries
 export PATH="$HOME/.node/bin:$PATH"

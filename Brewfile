@@ -15,6 +15,7 @@ brew 'hub'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
+brew 'svn'
 brew 'trash' # Manage the Trash bin
 brew 'tree' # List directories in a tree structure
 brew "wget"
@@ -93,12 +94,13 @@ cask 'font-source-code-pro-for-powerline'
 cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
+cask 'font-jetbrains-mono'
+cask 'font-jetbrains-mono-nerd-font'
 
 # Mac App Store
 mas "DaisyDisk", id: 411643860
 mas "Fantastical", id: 975937182
 mas "Graphic", id: 404705039
-mas "iMovie", id: 408981434
 mas "iPhoto", id: 408981381
 mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
