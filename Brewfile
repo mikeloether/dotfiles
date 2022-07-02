@@ -29,10 +29,8 @@ brew "inetutils"
 brew "nmap"
 
 # Python
+brew "pyenv"
 brew "pipenv"
-brew "python@3.8"
-brew "python@3.9"
-brew "python@3.10"
 brew "poetry"
 
 
@@ -54,6 +52,7 @@ cask '1password-cli'
 cask 'aerial'
 cask 'alfred'
 cask 'caffeine'
+cask 'coconutbattery'
 cask 'dbngin'
 cask 'discord'
 cask 'docker'
@@ -72,8 +71,8 @@ cask "pycharm"
 cask 'slack'
 cask 'steam'
 cask 'sublime-text'
+cask 'sublime-merge'
 cask 'tableplus'
-cask 'the-unarchiver'
 cask 'tinkerwell'
 cask 'transmission'
 cask 'transmit'
@@ -101,12 +100,9 @@ cask 'font-jetbrains-mono-nerd-font'
 mas "DaisyDisk", id: 411643860
 mas "Fantastical", id: 975937182
 mas "Graphic", id: 404705039
-mas "iPhoto", id: 408981381
 mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
-mas "Navicat for SQL Server Lite", id: 412149217
-mas "Navicat for SQLite Lite", id: 412542909
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
