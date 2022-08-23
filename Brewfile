@@ -73,7 +73,6 @@ cask 'steam'
 cask 'sublime-text'
 cask 'sublime-merge'
 cask 'tableplus'
-cask 'tinkerwell'
 cask 'transmission'
 cask 'transmit'
 cask 'vlc'
@@ -100,12 +99,7 @@ cask 'font-jetbrains-mono-nerd-font'
 mas "DaisyDisk", id: 411643860
 mas "Fantastical", id: 975937182
 mas "Graphic", id: 404705039
-mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
-mas "Microsoft Remote Desktop", id: 1295203466
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
 mas "Paprika Recipe Manager 3", id: 1303222628
-mas "Xcode", id: 497799835
 
